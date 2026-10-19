@@ -1,2 +1,2 @@
-# high_security_identity_wallet
+# high-security-identity-wallet
 KTU magistrinio tiriamojo projekto informacinė svetainė
